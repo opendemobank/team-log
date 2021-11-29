@@ -1,4 +1,4 @@
-* Rules
+# Rules
 
 1. Once a week you should write here what you have done during the week. E.g. I drew a sequence diagram for Login. Link: (some link to the diagram). Or I implemented the code for login user story. Link: (some link to the task).
 2. The deadline for this is every Tuesday 2 pm.
