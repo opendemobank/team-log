@@ -1,3 +1,10 @@
+# Portfolio's and Discord name mapping
+
+* Group 3: (Volodymyr Chernetskyi, Daichi Ando, Kaarel Rüüsak, Toomas Tamm): https://gitlab.cs.ut.ee/chernets/systems-modeling-repo/-/tree/main/portfolios
+* Group 8: (Rene Kütt, Peter Kallaste, Kristofer Käosaar , Rajan Raj Das): https://gitlab.cs.ut.ee/kuttrene/systems-modeling-repo
+* Group 11: (Lukas Baltramaitis, Paulius Kuprevičius): https://gitlab.cs.ut.ee/kuprevic/systems-modeling-repo
+* Group 12: (Lana, Karoliineh, Carolin Kirotar, Martanapa): https://gitlab.cs.ut.ee/lana/systems-modeling-repo
+
 # Rules
 
 1. Once a week you should write here what you have done during the week. E.g. I drew a sequence diagram for Login. Link: (some link to the diagram). Or I implemented the code for login user story. Link: (some link to the task).
